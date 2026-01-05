@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+
+div {
+    width: 50%;
+    background-color: antiquewhite;
+    margin: auto;
+    padding: 15px;
+}
+
+h1 {
+    color: rgb(152, 13, 34);
+}
+h5 {
+    margin: 0px;
+}
