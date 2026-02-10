@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+}
+section.top{
+    background-color: rgb(61, 89, 19);
+    height: 700px;
+}
+div.diagonal{
+    width: 0;
+    height: 0;
+    border-right: 100vw solid transparent ;
+    border-bottom: 13.9vw solid #fff;
+    margin-top: -13.9vw;
+}
+section.bottom{
+    background-color: #fff;
+}
+
+section.bottom h2{
+    margin-top: -13.9vw;
+}
+h1.center{
+    margin: 0;
+    position: absolute;
+    font-size: 15em; 
+    top: 45vh;
+    left: 40vw;
+}
+button {
+    background-color: red;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    width: 170px;
+    font-size: 2em;
+}
