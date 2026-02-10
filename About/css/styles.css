@@ -1,0 +1,16 @@
+
+header {
+    text-align: center;
+}
+
+nav{
+    margin-bottom: 50px;
+}
+nav a{
+    padding: 0px 50px;
+    background-color: yellow;
+    
+}
+nav a:hover {
+    background-color: rgb(12, 153, 12);
+}

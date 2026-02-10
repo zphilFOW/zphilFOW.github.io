@@ -1,0 +1,28 @@
+img{
+    width: 60%;
+}
+body{
+    text-align: center;
+}
+nav a{
+    padding: 0 50px;
+    background-color: #81b458;
+}
+p{
+    float: left;
+    padding: 10px;
+}
+section {
+    background-color: #e36c64;
+    overflow: hidden;
+    width: 60%;
+    margin: auto;
+    
+}
+nav {
+    border:solid #e36c64 ;
+}
+
+nav a:hover{
+    background-color: #ebae6b;
+}
